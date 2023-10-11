@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.0",
+    "libraryName": "carousel-rest-api",
+    "libraryId": "94ecb507-ce10-4a19-b94e-1715d82f2349",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "carousel-rest-api",
+    "solutionShortDescription": "carousel-rest-api description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
